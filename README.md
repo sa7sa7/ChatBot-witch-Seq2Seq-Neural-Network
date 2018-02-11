@@ -4,8 +4,10 @@
 ### • You'll need to download a file that contains a pre-trained Embedding layer from this link: http://fauconnier.github.io/#about. It's the highlited file in the image below. Keep the file in the root directory.
 <table border="0">
   <tr>
-    <td style="text-align:center">
-      <img src="img/Word2Vec.PNG" width= 50% height= 50%>
+    <td>
+      <p align="center">
+        <img src="img/Word2Vec.PNG" width= 50% height= 50%>
+      </p>
     </td>
   </tr>
 </table>
