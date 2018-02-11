@@ -4,7 +4,7 @@
 <table border="0">
   <tr>
     <td>
-      <img src="img/Word2Vec.PNG" style="width: 50%; height: 50%">
+      <img src="img/Word2Vec.PNG" style="width: 50px; height: 50px">
     </td>
   </tr>
 </table>
